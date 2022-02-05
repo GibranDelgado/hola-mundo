@@ -1,5 +1,5 @@
-# holam-mundo
-Mi primer repositorio de prueba
+# Hola-Mundo
+Mi primer repositorio.
 
-Autor: Gibrán Delgado
-Fecha: 22/01/2022
+Autor: Gibrán Delgado.
+Fecha: 22/01/2022.
